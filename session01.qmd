@@ -1,0 +1,19 @@
+# Importing and Handling Genomic Data
+
+*Session Presenters*
+
+![](images/Presenters1.png)
+
+## *Required packages*
+
+```{r, warning=FALSE, message=FALSE}
+
+```
+
+## Session Content
+
+
+## *Further Study*
+
+### Readings
+
